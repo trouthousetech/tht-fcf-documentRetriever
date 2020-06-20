@@ -24,6 +24,6 @@ function handleUnsuccessfulRetrieval(path, documentId, error) {
     return { path: path, id: documentId, data: null, wasSuccessful: false, error: error };
 }
 
-export {
-    getDocumentsWithCriteria
+module.exports = {
+    getDocumentsWithCriteria: getDocumentsWithCriteria
 }

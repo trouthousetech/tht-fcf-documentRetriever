@@ -10,7 +10,7 @@
   "dependencies": {
     "metro-react-native-babel-preset": "^0.59.0",
     "prop-types": "15.5.10",
-    "tht-fcf-document-retriever": "^1.0.11"
+    "typescript": "^3.9.5"
   },
   "devDependencies": {
     "eslint": "7.0.0"
