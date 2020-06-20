@@ -1,0 +1,17 @@
+{
+  "name": "tht-fcf-documentRetriever",
+  "version": "1.0.0",
+  "description": "Common retrieval methods for Firebase Firestore",
+  "main": "index.js",
+  "repository": "https://github.com/trouthousetech/tht-fcf-documentRetriever.git",
+  "author": "chooch620 <matthew.z.ruiz@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "metro-react-native-babel-preset": "^0.59.0",
+    "prop-types": "15.5.10"
+  },
+  "devDependencies": {
+    "eslint": "7.0.0"
+  }
+}
